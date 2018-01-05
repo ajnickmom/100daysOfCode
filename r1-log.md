@@ -14,5 +14,5 @@ Day 0: January 5th, 2018
 **Today's Progress:** create a clone of GitHub from Kalloway's Challenge. Create a basic index.html updating meta info in head. Create a blog page where I list the rules of the challenge and I will post the log info. I put them into the standards for HTML headings and ordered list.  Added Links when appropriate
 **Thoughts**: learning new things will be interesting as I keep repeating on my own the basics and rarely move foward. This will become my Web Portfolio and link to other common repositories for portfolios like Behance, LinkedIn, GitHub and others.
 **Link to Work** 
-<a href="https://github.com/ajnickmom/100daysOfCodeChallenge/tree/ajnickmom-R1">GitHub Link</a>
+<a href="https://github.com/ajnickmom/100daysOfCode/blob/master/blog.html">GitHub Link</a>
 
